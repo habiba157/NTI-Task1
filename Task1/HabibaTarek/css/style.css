@@ -1,0 +1,102 @@
+* {
+    margin: 10px;
+}
+
+#div1 {
+    width: 1500px;
+    height: 200px;
+    box-sizing: content-box;
+
+}
+
+#sqrdiv {
+    background-color: rgba(1, 1, 131, 0.5);
+    width: 220px;
+    height: 200px;
+    float: left;
+
+    margin-inline-end: 400px;
+
+
+
+
+
+}
+
+#recdiv {
+
+    background-color: rgba(1, 1, 131, 0.5);
+    width: 350px;
+    height: 200px;
+    float: right;
+
+    margin-inline-end: 280px;
+
+
+
+
+}
+
+#sqrdiv2 {
+
+    background-color: rgba(1, 1, 131, 0.5);
+    width: 650px;
+    height: 100px;
+    float: left;
+
+    /* margin-inline-start: 10px;  */
+
+}
+
+#recdiv2 {
+    background-color: rgba(1, 1, 131, 0.5);
+    width: 550px;
+    height: 120px;
+    float: right;
+
+    /* margin-inline-end: 50px; */
+
+}
+#div3{
+    box-sizing: border-box;
+    margin: auto;
+}
+#circdiv1 {
+    background-color: rgba(1, 1, 131, 0.5);
+
+margin-top: 30px;
+    width: 200px;
+    height: 180px;
+    border-radius: 100%;
+    float: left;
+}
+
+#circdiv2 {
+    background-color: rgba(1, 1, 131, 0.5);
+    width: 200px;
+    height: 180px;
+    border-radius: 100%;
+    margin-left:500px;
+    margin-right:auto;
+
+    float: right;
+    
+}
+
+#circdiv3 {
+    background-color: rgba(1, 1, 131, 0.5);
+    width: 200px;
+    height: 180px;
+    border-radius: 100%;
+    float:  right;
+    margin-left: 260px;
+
+    
+
+}
+#div4{
+    background-color: rgba(1, 1, 131, 0.5);
+    width: 100%;
+    height: 180px;
+    clear: both;
+}
